@@ -1,4 +1,12 @@
-﻿a
+﻿body{
+	color: #00008B;
+	background-color: #FFD700;
+}
+
+
+
+
+a
 {
 	color: red;
 }
@@ -68,3 +76,19 @@ li
 	font-style: italic;
 }
 
+h1, h2{
+	text-transform: uppercase;
+	color: red;
+}
+
+
+#f_vonal{
+	width: 800px;
+	height: 6px;
+	background-color: green;
+	border: none;
+}
+
+ul{
+	list-style: url(list.png);
+}
